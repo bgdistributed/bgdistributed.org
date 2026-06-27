@@ -1,0 +1,8 @@
+baseURL = "https://bgdistributed.org/"
+languageCode = "en-us"
+title = "BG Distributed"
+
+enableRobotsTXT = true
+
+[pagination]
+pagerSize = 10
