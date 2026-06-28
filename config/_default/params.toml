@@ -83,6 +83,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showDate = true
   showViews = false
   showLikes = false
+  showComments = true
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
@@ -206,3 +207,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [comments]
   enabled = true
+  provider = "giscus"
+
+[comments.giscus]
+  repo = "bgdistributed/bgdistributed.org"
+  repoId = "R_kgDOTG9Ktg"
+  category = "Comments"
+  categoryId = "DIC_kwDOTG9Kts4DACaw"
+  mapping = "pathname"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  theme = "preferred_color_scheme"

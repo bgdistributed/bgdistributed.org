@@ -2,7 +2,7 @@
 title: "Hello, World"
 date: 2026-06-27
 draft: false
-comments: true
+showComments: true
 ---
 
 Welcome to BG Distributed!
