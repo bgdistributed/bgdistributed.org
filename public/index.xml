@@ -4,16 +4,30 @@
     <title>BG Distributed</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on BG Distributed</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 BG Distributed</copyright>
+    <lastBuildDate>Sat, 27 Jun 2026 13:50:01 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 27 Jun 2026 13:50:01 -0400</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Hello, World</title>
       <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;Welcome to BG Distributed!&lt;/p&gt;&#xA;&lt;p&gt;This is the first article.&lt;/p&gt;</description>
+      <description></description>
+      
     </item>
+    
   </channel>
 </rss>
